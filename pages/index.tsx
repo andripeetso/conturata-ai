@@ -31,7 +31,7 @@ export default function Home() {
         }`}
       >
         <div className="relative bg-black p-10">
-          <p className="text-white font-mono text-2xl">
+          <p className="text-white font-mono text-lg sm:text-2xl">
             //Hello world!
             <br />
             <br />
